@@ -1,0 +1,2 @@
+Place the getImages file in the training images and testing images folders to generate .npy files named trainingImages and testImages. 
+place the npy files produced by the script into the training folder and run the progeam to get a text file containing the highest predictions for each testing image.
